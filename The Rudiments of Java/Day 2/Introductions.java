@@ -1,6 +1,6 @@
 // Patrick Duane
 // The Rudiments of Java
-// Day 1: Introductions
+// Day 2: Introductions - Main
 // This program will print to the console my favorite hobby, and one unique thing about me
 
 import java.io.*;
@@ -9,7 +9,7 @@ public class Introductions {
 	public static void main(String[] args) {
 		System.out.println("Patrick Duane");
 		System.out.println("The Rudiments of Java");
-		System.out.println("Day 1: Introductions");
+		System.out.println("Day 2: Introductions");
 		System.out.println("This program will print to the console my favorite hobby, and one unique thing about me");
 		System.out.println();
 		System.out.println("Hobby: Playing Guitar");
